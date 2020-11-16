@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm run clean && npm run build && INPUT_FILE=$npm_config_file node ./build/index.js",
+    "start": "npm run clean && npm run build && INPUT_FILE=$npm_config_file RANDOM=$npm_config_random node ./build/index.js",
     "dev": "tsc --watch",
     "build": "npm run clean && tsc",
     "clean": "rm -rf ./build"

@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
+    "sourceRoot": ".",
     "module": "commonjs",
-    "noImplicitAny": true,
-    "outDir": "./build",
-    "sourceMap": true
+    "sourceMap": true,
+    "outDir": "build"
   }
 }
