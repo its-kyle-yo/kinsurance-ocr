@@ -1,5 +1,5 @@
 # kinsurance-ocr
-A coding assessment for kinsurance-ocr
+A coding assessment for Kinsurance for the criteria located [here](https://drive.google.com/file/d/1l4F38Y3sapZYhEuQE7NbmYJZxqozwtE4/view?usp=sharing)
 
 ## Getting Started 
   1. Install all dependencies with `npm install` 
