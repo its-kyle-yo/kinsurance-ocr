@@ -15,3 +15,9 @@ A coding assessment for kinsurance-ocr
  `npm run build`: removes the build folder and rebuilds via TSC
  
  `npm run clean`: 🤯 destroys the `./build` folder and all its hopes and dreams (not really (but yes really for the ./build folder))
+
+## Dependencies 
+  * TypeScript@next
+  * npm@7.0.8
+  * node@15.2.0
+  
